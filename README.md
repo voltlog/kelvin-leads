@@ -11,6 +11,8 @@ Here is a list of supplies that you will need to complete the project:
 * PCB Connector Kicad/Gerber (in this repository)
 * Connector casing (step files in this repository)
 
+Alternatively you can order the PCB + enclosure from my [Tindie store](https://www.tindie.com/products/voltlog/lcr-meter-kelvin-test-lead-adapter-pcb/).
+
 More info about this project in [Voltlog #326](https://youtu.be/MpJgCks37lE).
 
 ![Image of the finished test leads](final-build.JPG)
